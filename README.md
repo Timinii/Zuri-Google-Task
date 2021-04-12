@@ -1,2 +1,2 @@
 # Zuri-Google-Task
-view https://github.com/Timinii/Zuri-Google-Task
+view https://timinii.github.io/Zuri-Google-Task/
